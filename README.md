@@ -1,5 +1,5 @@
 ## Olá 👋
-- 🔭 Atualmente estou trabalhando na Ambev como mecânico em manutenção de máquinas.
+- 🔭 Atualmente estou trabalhando na Ambev
 - 🌱 Atualmente estou aprendendo análise e desenvolvimento de sistemas na Unisuam.
 - 👯 Estou procurando colaborar em projetos na minha empresa e na minha faculdade.
 - 😄 Pronomes: Ele/dele
